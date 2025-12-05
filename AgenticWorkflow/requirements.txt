@@ -1,0 +1,4 @@
+temporalio
+docker
+openai-agents
+openai>=1.0.0
